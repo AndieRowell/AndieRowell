@@ -1,10 +1,10 @@
-### Hi there 👋
+<!-- ### Hi there -->
 
-<h1 align="center">Hi, I'm Andie!</h1>
+<h1 align="center">Hi there 👋, I'm Andie! Welcome to my github!</h1>
 <h3 align="center">An aspiring fullstack web developer from Kentucky!</h3>
 
 - 🌱 I’m currently learning **Html + CSS + Javascript**
-- 🎒 I'll be joining **Awesome Inc's Web Developer Bootcamp** in the Fall!
+- 🎒 I'll be joining **Awesome Inc's Web Developer Bootcamp**  in the Fall!
 
   
 <!--
