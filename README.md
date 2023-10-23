@@ -3,7 +3,7 @@
 <h1 align="center">Hi there 👋, I'm Andie! Welcome to my github!</h1>
 <h3 align="center">I'm a Fullstack Web Developer from Kentucky!</h3>
 
-- 🌱 I’m currently learning Html + CSS + Javascript + **React**
+- 🌱 I’m currently learning Html + CSS + Javascript + React + **Python**
 - 🎒 I'm currently enrolled in **Awesome Inc's Web Developer Bootcamp**!
 - 🎓 My final Bootcamp Demo Day will be **December 12th**!
 
